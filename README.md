@@ -5,8 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rohan-yellow)](https://stackoverflow.com/users/21427173/rohan)
 
 I'm
-Full Stack Developer
-Currently working as Test Engineer. I am I am looking forward to build carrer as full stack developer. I have a skills that include back-end development using open source technology, front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive), ,database(MongoDB).
+Full Stack Developer.
+Currently working as Test Engineer. I am looking forward to build carrer as full stack developer. I have a skills that include front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive), back-end development using NodeJs, ,database(MongoDB).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/rohanpansare99/count.svg)
