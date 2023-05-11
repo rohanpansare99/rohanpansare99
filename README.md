@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rohan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-pansare-3215ab15b/)](https://www.linkedin.com/in/rohan-pansare-3215ab15b/)
-[![Website Badge](https://stackoverflow.com/users/21427173/rohan-yellow)](https://stackoverflow.com/users/21427173/rohan)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Rohan-yellow-yellow)](https://stackoverflow.com/users/21427173/rohan)
 
 I'm
 Full Stack Developer
