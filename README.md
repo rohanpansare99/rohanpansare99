@@ -6,7 +6,7 @@
 
 I'm
 Full Stack Developer.
-Currently working as Test Engineer. I am looking forward to build carrer as full stack developer. I have a skills that include front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive), back-end development using NodeJs, ,database(MongoDB).
+I am currently working as Test Engineer. I am looking forward to build career as a full stack developer. I have a skills that include front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive), back-end development using NodeJs, ,database(MongoDB).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/rohanpansare99/count.svg)
